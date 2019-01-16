@@ -1,4 +1,3 @@
--- module LeapYear (isLeapYear, isDivBy, isNotDivBy) where
 module LeapYear where
 
 isDivBy :: Int -> (Int -> Bool)
